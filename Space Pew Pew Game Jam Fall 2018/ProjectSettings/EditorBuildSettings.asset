@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartingScreen.unity
+    guid: 44af550d95cd24e438a4d4f7009167e3
+  - enabled: 1
+    path: Assets/Scenes/MainGameScene.unity
+    guid: 112376183744db84894f96def795cdcd
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 953f3d90457f2cf48995fe36491a4207
+  m_configObjects: {}
